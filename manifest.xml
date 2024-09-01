@@ -6,8 +6,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="MercadoTrack"/>
   <Description DefaultValue="Track products from Mercado Libre."/>
-  <IconUrl DefaultValue="https://www.contoso.com/assets/mercadolibre-logo.png"/>
-  <HighResolutionIconUrl DefaultValue="https://www.contoso.com/assets/mercadolibre-logo.png"/>
+  <IconUrl DefaultValue="https://eddybel.github.io/MercadoTrack-Server/assets/mercadolibre-logo.png"/>
+  <HighResolutionIconUrl DefaultValue="https://eddybel.github.io/MercadoTrack-Server/assets/mercadolibre-logo.png"/>
   <SupportUrl DefaultValue="https://github.com/EddyBel"/>
   <AppDomains>
     <AppDomain>https://github.com/EddyBel</AppDomain>
@@ -16,7 +16,7 @@
     <Host Name="Workbook"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://www.contoso.com/taskpane.html"/>
+    <SourceLocation DefaultValue="https://eddybel.github.io/MercadoTrack-Server/taskpane.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
@@ -62,14 +62,14 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://www.contoso.com/assets/mercadolibre-logo.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://www.contoso.com/assets/mercadolibre-logo.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://www.contoso.com/assets/mercadolibre-logo.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://eddybel.github.io/MercadoTrack-Server/assets/mercadolibre-logo.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://eddybel.github.io/MercadoTrack-Server/assets/mercadolibre-logo.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://eddybel.github.io/MercadoTrack-Server/assets/mercadolibre-logo.png"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812"/>
-        <bt:Url id="Commands.Url" DefaultValue="https://www.contoso.com/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://www.contoso.com/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://eddybel.github.io/MercadoTrack-Server/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://eddybel.github.io/MercadoTrack-Server/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GetStarted.Title" DefaultValue="Empieza con MercadoTrack!"/>
